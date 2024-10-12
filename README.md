@@ -2,7 +2,7 @@
 **Movie Portal** is a web-based platform that allows users to explore the latest movies, popular films, and trending releases. This project uses modern web technologies to create an interactive and responsive movie browsing experience.
 ## Preview
 
-![Movie Portal Preview](https://github.com/Otomatikci/Movie-Portal/blob/main/Movie_portal_.gif)
+![Movie Portal Preview](Movie_portal_.gif)
 ## Features
 
 - Responsive navbar with logo and menu items
